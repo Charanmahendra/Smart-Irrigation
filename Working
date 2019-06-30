@@ -1,0 +1,8 @@
+The ultrasonic sensor we have used is HC-SR04 configuration.It can detect upto the maximum range of 4m and minimum range of 2 cm.Its working current is 15mA and working voltage is DC 5V.
+
+The soil moisture sensor consists of two probes which are used to measure the volumetric content of water. The two probes allow the current to pass through the soil and then it gets the resistance value to measure the moisture value.
+When there is more water, the soil will conduct more electricity which means that there will be less resistance. Therefore, the moisture level will be higher. Dry soil conducts electricity poorly, so when there will be less water, then the soil will conduct less electricity which means that there will be more resistance. Therefore, the moisture level will be lower.
+
+This DHT11 sensor is used for sensing humidity and temperature.Humidity sensing component is used for sensing humidity and NTC temperature sensor(or thermistor)that its a variable resistor change in resistance occurs.NTC means negative temperature coefficient,resistance decreases as temperature increases.For measuring humidity they use the humidity sensing component which has two electrodes with moisture holding substrate between them. So as the humidity changes, the conductivity of the substrate changes or the resistance between these electrodes with changes.
+
+In our project,the soil moisture sensor detects the moisture content in the soil,when moisture level is less than the required one,the motor automatically gets ON.As the voltage from arduino Uno board is not sufficient,we are connecting a battery.The voltage fluctuations may cause damage to arduino,to avoid this we are controlling those voltage fluctuations using the relay which acts a switch.
