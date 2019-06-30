@@ -4,7 +4,7 @@ dht DHT;
 
 #define DHT11_PIN D1
 
-void setup()
+ void setup()
 {
   Serial.begin(115200);
   Serial.println("DHT TEST PROGRAM ");
