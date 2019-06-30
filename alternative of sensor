@@ -1,0 +1,17 @@
+We have used the arduino uno board because we require more number of analog pins,5V powersupply and we don't require any Wifi connection.If we need a wifi connection we can use nodemcu.   
+
+ There is an alternative sensor for DHT11 that is DHT22, but DHT11 has frequency of 1Hz which is more accurate than DHT22 of 0.5Hz
+ 
+ VegetronixVH400 is alternate of Soil Moisture Sensor but it is very costly a farmer cannot afford this so here we are using  normal soil moisture sensor
+ 
+ As we know,we can detect water level by using water level detector but the disadvantage of this detector is if it is fully immersed in water it will not work so it is better to use ultrasonic sensor.And water level detector will not show accurate value.
+ 
+ COMPONENTS:
+   Arduino uno
+   Ultrasonic sensor
+   Soil moisture sensor
+   DHT11 sensor
+   Relay module
+   Battery
+   Sub Mersible motor
+
