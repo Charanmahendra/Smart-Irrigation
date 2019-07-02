@@ -1,0 +1,25 @@
+They proposed to utilize the solar energy from solar panels to automatically pump water
+from bore well directly into a ground level storage tank depending on the intensity of sunlight.
+While conventional methods include pumping of water from bore well into a well and from this
+well onto field using another pump, our system uses only a single stage energy consumption
+wherein the water is pumped into a ground level tank from which a simple valve mechanism
+controls the flow of water into the field. This saves substantial amount of energy and efficient use
+of renewable energy. A valve is controlled using intelligent algorithm in which it regulates the
+flow of water into the field depending upon the moisture requirement of the land. In this system
+we use a soil moisture sensor that detects the amount of moisture present in the soil and depending
+upon the requirement of level of moisture content required for the crop the water flow is regulated
+thus, conserving the water by avoiding over flooding of crops.
+Proposed irrigation system mainly consists of two modules- Solar pumping module and
+automatic irrigation module. In solar pumping module a solar panel of required specification is
+mounted near the pump set. Then using a control circuit it is used to charge a battery. From the
+battery using a converter circuit it gives power to the water pump which is submerged inside the
+well. Then the water is pumped into an overhead tank for storing water temporarily before
+releasing the water into the field. In automatic irrigation module the water outlet valve of the tank
+is electronically controlled by a soil moisture sensing circuit. The sensor is placed in the field
+where the crop is being cultivated. The sensor converts the moisture content in the soil into
+equivalent voltage. This is given to a sensing circuit which has a reference voltage that can be
+adjusted by the farmer for setting different moisture levels for different crops. The amount of
+water needed for soil is proportional to the difference of these two voltages. A control signal was
+given to a stepper motor whose rotational angle is proportional to the difference in voltage. The
+stepper motor in turns controls the cross sectional area of the valve to be opened controlling flow
+of water. Therefore the amount of water flowing is proportional to the moisture difference.
