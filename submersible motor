@@ -1,0 +1,3 @@
+Soil moisture sensor detects the moisture content in the soil,if there is less content of moisture,the water is pumped in the fields.
+
+Ultrasonic sonic sensor will detect the water level,if there is any extra level of water,then that water is pumped out using that motor.
