@@ -1,0 +1,2 @@
+Relays work on electromagnetism, When the Relay coil is energized it acts like a magnet and changes the position of a switch. The circuit which powers the coil is completely isolated from the part which switches ON/OFF, This provides electrical isolation. This is the reason we can control a relay using 5V's from an arduino and the other end of it could be running an 230V appliance, the 230V end is completely isolated from the 5V arduino circuitry.
+
