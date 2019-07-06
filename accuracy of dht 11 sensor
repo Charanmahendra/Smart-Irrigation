@@ -1,0 +1,1 @@
+Also the DHT22 sensor has better humidity measuring range, from 0 to 100% with 2-5% accuracy, while the DHT11 humidity range is from 20 to 80% with 5% accuracy. There are two specification where the DHT11 is better than the DHT22.
