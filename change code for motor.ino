@@ -1,7 +1,7 @@
 #include "dht.h"
  dht DHT
  
-#define DHT11_PIN 1
+#define DHT11_PIN 3
 const int soil_sensor = A0;
 const int trigPin = 9;
 const int echoPin = 10;
