@@ -1,0 +1,10 @@
+Booting the GSM Module!
+
+1. Insert the SIM card to GSM module and lock it.
+
+2. Connect the adapter to GSM module and turn it ON!
+
+3. Now wait for some time (say 1 minute) and see the blinking rate of ‘status LED’ Â or ‘network LED’ (GSM module will take some time to establish connection with mobile network)
+
+4. Once the connection is established successfully, the status/network LED will blink continuously every 3 seconds. You may try making a call to the mobile number of the sim card inside GSM module. If you hear a ring back, the gsm module has successfully established network connection.
+
