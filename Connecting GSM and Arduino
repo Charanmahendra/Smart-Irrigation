@@ -1,0 +1,8 @@
+Connecting GSM Module to Arduino
+
+There are two ways of connecting GSM module to arduino. In any case, the communication between Arduino and GSM module is serial. So we are supposed to use serial pins of Arduino (Rx and Tx). So if you are going with this method, you may connect the Tx pin of GSM module to Rx pin of Arduino and Rx pin of GSM module to Tx pin of Arduino. You read it right ? GSM Tx –> Arduino Rx and GSM Rx –> Arduino Tx. Now connect the ground pin of arduino to ground pin of gsm module! So that’s all! You made 3 connections and the wiring is over! Now you can load different programs to communicate with gsm module and make it work.
+
+Note:- The problem with this connection is that, while programming Arduino uses serial ports to load program from the Arduino IDE. If these pins are used in wiring,Â  the program will not be loaded successfully to Arduino. So you have to disconnect wiring in Rx and Tx each time you burn the program to arduino. Once the program is loaded successfully, you can reconnect these pins and have the system working!
+
+To avoid this difficulty, I am using an alternate method in which two digital pins of arduino are used for serial communication. We need to select two PWM enabled pins of arduino for this method. So I choose pins 9 and 10 (which are PWM enabled pins). This method is made possible with the SoftwareSerial Library of Ardunio. SoftwareSerial is a library of Arduino which enables serial data communication through other digital pins of Arduino. The library replicates hardware functions and handles the task of serial communication.
+
