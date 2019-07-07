@@ -1,0 +1,26 @@
+Although we fully believe in the capability of our sensors, we understand that ultrasonics are not suited for every application. Below we go into the limitations of our sensors, and how we have overcome some of these problems.
+
+ 
+
+Cannot work in a vacuum
+
+Because ultrasonic sensors operate using sound, they are completely nonfunctional in a vacuum as there is no air for the sound to travel through.
+
+Not designed for underwater use
+
+Our sensors have not been properly tested in this environment, so underwater use voids our warranty. This being said, we do supply documentation for customers who would still like to test our sensors underwater. If you are interested in underwater applications with ultrasonics, check out our articles on Water Depth Sensing with Ultrasonics and Underwater Ranging for more information.
+
+Sensing accuracy affected by soft materials
+
+Objects covered in a very soft fabric absorb more sound waves making it hard for the sensor to see the target.
+
+Sensing accuracy affected by changes in temperature of 5-10 degrees or more
+
+Although this is true, we have a variety of temperature compensated sensors available that either calibrate upon start-up or before every range reading depending on the sensor model. During this time is when the sensor will calibrate with any change in temperature, voltage, etc. This dramatically decreases this problem.
+
+Have a limited detection range
+
+At the moment, our longest range sensors have a maximum range of 10 meters. While this is a disadvantage in certain applications, our sensors have great mid-range capabilities and are still suited for many applications.
+
+ 
+
