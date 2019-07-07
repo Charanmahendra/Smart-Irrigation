@@ -1,11 +1,11 @@
 #include<dht.h>
  dht DHT;
 
-#define DHT11_PIN D0
+#define DHT11_PIN D1
 const int sensor_pin= A0;
-const int trigPin = 9;
-const int echoPin = 10;
-const int pin=13;
+const int trigPin = 13;
+const int echoPin = 9;
+const int pin=10;
 long duration;
 int distance;
 
@@ -46,10 +46,10 @@ void loop()
   delay(1000);
   // Clears the trigPin
     digitalWrite(trigPin, LOW);
-    delay(200);
+    delay(2000);
     // Sets the trigPin on HIGH state for 10 micro seconds
     digitalWrite(trigPin, HIGH);
-    delay(200);
+    delay(2000);
     digitalWrite(trigPin, LOW);
     // Reads the echoPin, returns the sound wave travel time in microseconds
     duration = pulseIn(echoPin, HIGH);
@@ -59,7 +59,7 @@ void loop()
     Serial.print("Distance: ");
     Serial.println(distance);
 
-    if(distance>=50)
+    if(distance>=100)
     {
       digitalWrite(pin1,HIGH);
     }
