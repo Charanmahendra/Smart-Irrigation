@@ -3,7 +3,7 @@
 **COMPONENTS DESCRIPTION**
 
 **1.ULTRASONIC SENSOR:**
-Ultrasonic Sensor Pin Configuration:
+Ultrasonic Sensor Pin Configuration
 
 Pin Number     Pin Name         Description
  
