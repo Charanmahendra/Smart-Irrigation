@@ -59,8 +59,11 @@ The amount of time during which the Echo pin stays high is measured by the MCU/M
 **Applications**
 
 •Used to avoid and detect obstacles with robots like biped robot, obstacle avoider robot, path finding robot etc.
+
 •Used to measure the distance within a wide range of 2cm to 400cm
+
 •Can be used to map the objects surrounding the sensor by rotating it
+
 •Depth of certain places like wells, pits etc can be measured since the waves can penetrate through water
 
 
