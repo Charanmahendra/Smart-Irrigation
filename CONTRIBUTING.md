@@ -54,20 +54,13 @@ HC-SR04 distance sensor is commonly used with both microcontroller and microproc
 
 The amount of time during which the Echo pin stays high is measured by the MCU/MPU as it gives the information about the time taken for the wave to return back to the Sensor. Using this information the distance is measured as explained in the above heading.
 
- 
 
-**Applications**
+**2.SOIL MOISTURE SENSOR**
+Soil moisture sensors measure the volumetric water content in soil.[1] Since the direct gravimetric measurement of free soil moisture requires removing, drying, and weighting of a sample, soil moisture sensors measure the volumetric water content indirectly by using some other property of the soil, such as electrical resistance, dielectric constant, or interaction with neutrons, as a proxy for the moisture content. 
 
-•Used to avoid and detect obstacles with robots like biped robot, obstacle avoider robot, path finding robot etc.
+The relation between the measured property and soil moisture must be calibrated and may vary depending on environmental factors such as soil type, temperature, or electric conductivity. Reflected microwave radiation is affected by the soil moisture and is used for remote sensing in hydrology and agriculture. Portable probe instruments can be used by farmers or gardeners. 
 
-•Used to measure the distance within a wide range of 2cm to 400cm
-
-•Can be used to map the objects surrounding the sensor by rotating it
-
-•Depth of certain places like wells, pits etc can be measured since the waves can penetrate through water
-
-
-
+Soil moisture sensors typically refer to sensors that estimate volumetric water content. Another class of sensors measure another property of moisture in soils called water potential; these sensors are usually referred to as soil water potential sensors and include tensiometers and gypsum blocks
 
 
 
