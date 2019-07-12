@@ -4,7 +4,6 @@
 **1.ULTRASONIC SENSOR**
 Ultrasonic Sensor Pin Configuration
 
-
 Pin Number     Pin Name         Description
  
 1              Vcc              The Vcc pin powers the sensor, typically with +5V
@@ -62,6 +61,16 @@ The relation between the measured property and soil moisture must be calibrated 
 
 Soil moisture sensors typically refer to sensors that estimate volumetric water content. Another class of sensors measure another property of moisture in soils called water potential; these sensors are usually referred to as soil water potential sensors and include tensiometers and gypsum blocks
 
+**Specifications:**
+
+PCB size  71.65mm X 24.00mm X 1.6mm  
+Working voltage  3.3 or 5V DC  
+Operating voltage  3.3 or 5V DC  
+Compatible interfaces .54 3-pin interface and 4-pin Grove interface(1)(2)  
+
+Note 1： D for digital output port, A for analog output port, S for analog/digital output port ( defined according to the switch), V and G for voltage at the common collector and ground respectively 
+
+Note 2： When setting as analog output, output range is 0-3.3V or 0-5V according to the working voltage; when setting as digital output, output is 0/3.3V or 0/5V according to the working voltage
 
 
  
