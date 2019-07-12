@@ -3,7 +3,7 @@
 **COMPONENTS DESCRIPTION**
 
 **1.ULTRASONIC SENSOR**
-Ultrasonic Sensor Pin Configuration
+Ultrasonic Sensor Pin Configuration:
 
 Pin Number     Pin Name         Description
  
@@ -55,7 +55,7 @@ HC-SR04 distance sensor is commonly used with both microcontroller and microproc
 The amount of time during which the Echo pin stays high is measured by the MCU/MPU as it gives the information about the time taken for the wave to return back to the Sensor. Using this information the distance is measured as explained in the above heading.
 
 
-**2.SOIL MOISTURE SENSOR**
+**2.SOIL MOISTURE SENSOR:**
 Soil moisture sensors measure the volumetric water content in soil.[1] Since the direct gravimetric measurement of free soil moisture requires removing, drying, and weighting of a sample, soil moisture sensors measure the volumetric water content indirectly by using some other property of the soil, such as electrical resistance, dielectric constant, or interaction with neutrons, as a proxy for the moisture content. 
 
 The relation between the measured property and soil moisture must be calibrated and may vary depending on environmental factors such as soil type, temperature, or electric conductivity. Reflected microwave radiation is affected by the soil moisture and is used for remote sensing in hydrology and agriculture. Portable probe instruments can be used by farmers or gardeners. 
@@ -73,7 +73,7 @@ Note 1： D for digital output port, A for analog output port, S for analog/digi
 
 Note 2： When setting as analog output, output range is 0-3.3V or 0-5V according to the working voltage; when setting as digital output, output is 0/3.3V or 0/5V according to the working voltage
 
-**3.DHT11 SENSOR**
+**3.DHT11 SENSOR:**
  A humidity sensor senses,measures and regularly reports the relative humidity in the air. It measures both moisture and air temperature.Relative humidity, expressed as a percent, is the ratio of actual moisture in the air to the highest amount of moisture air at that temperature can hold.The warmer the air is, the more moisture it can hold, so relative humidity changes with fluctuations in temperature. 
 
 **Humidity Sensor**
