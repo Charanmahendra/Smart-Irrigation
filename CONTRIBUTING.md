@@ -1,6 +1,7 @@
                                   **SMART IRRIGATION**
 
 **COMPONENTS DESCRIPTION**
+
 **1.ULTRASONIC SENSOR**
 Ultrasonic Sensor Pin Configuration
 
@@ -72,5 +73,11 @@ Note 1： D for digital output port, A for analog output port, S for analog/digi
 
 Note 2： When setting as analog output, output range is 0-3.3V or 0-5V according to the working voltage; when setting as digital output, output is 0/3.3V or 0/5V according to the working voltage
 
+**3.DHT11 SENSOR**
+ A humidity sensor senses,measures and regularly reports the relative humidity in the air. It measures both moisture and air temperature.Relative humidity, expressed as a percent, is the ratio of actual moisture in the air to the highest amount of moisture air at that temperature can hold.The warmer the air is, the more moisture it can hold, so relative humidity changes with fluctuations in temperature. 
 
- 
+**Humidity Sensor**
+
+Humidity sensors detect the relative humidity of the immediate environments in which they are placed. They measure both the moisture and temperature in the air and express relative humidity as a percentage of the ratio of moisture in the air to the maximum amount that can be held in the air at the current temperature. As air becomes hotter, it holds more moisture, so the relative humidity changes with the temperature. 
+
+Most humidity sensors use capacitive measurement to determine the amount of moisture in the air. This type of measurement relies on two electrical conductors with a non-conductive polymer film laying between them to create an electrical field between them. Moisture from the air collects on the film and causes changes in the voltage levels between the two plates. This change is then converted into a digital measurement of the air’s relative humidity after taking the air temperature into account
