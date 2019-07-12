@@ -1,4 +1,4 @@
-                                                                           INTRODUCTION
+**INTRODUCTION:**
 
  The continuous increasing demand of food requires the rapid improvement in food  production and technology .In country like India , where the economy is mainly based on agriculture and the climatic conditions are isotropic, still we are not able to make full use of agriculture resources.
 
@@ -9,12 +9,12 @@ Smart irrigation controllers moniter the weather, soil conditions, evaporation a
  
 This is a technology by which we can over come the major problem of the farmer in the fields in rainy season which is nothing but the over flow of water in the fields and we even control major system in the fields automatically .The use of smart irrigation is mainly to reduce the work of farmer and to get to know  the information of his field status
 
-                                                                           EXPLANATION:
+**EXPLANATION:**
  
 This block diagram consists of ultrasonic sensor which collects the data of extra level of water,after collectiong the data,if there is any extra level of water in the fields the motor gets ON automatically which can be done even by using the relay as switch.Soil moisture sensor which collects the data of moisture content in soil,after collecting that data,if there is low level of moisture content then the motor gets ON and the water is pumped to the fields.DHT11 sensor collects the data of  temperature and humidity ,this information is collected sent to the farmer as the message with the help of GSM module.Solar panels are used to convert sunlight into electricity and stored in batteries,which can be used for the agriculture or some other purpose.Water pumped out after the data collected from ultrasonic sensor is purified using the activated carbon filter and stored in storage tanks.
 
 
-                                                                         WORKING MODEL:
+**WORKING MODEL:**
 
 STEP1: Collecting the data from sensors
 
@@ -47,9 +47,11 @@ STEP 4 : Utilizing the solar power
 
 Here we connect solar panel which converts solar energy into electrical energy, which we can use further .This energy is stored in the  storage batteries.
 
-USERS: Farmers
+**USERS:**
+Farmers
 
-                                                                            VERSIONS
+
+**VERSIONS:**
 0.1 :  Exploration of components 
 
     Arduino uno
@@ -76,7 +78,8 @@ USERS: Farmers
 
 0.9 :   Testing the project
 
-                                                                          CONCLUSION:
+
+**CONCLUSION:**
 
 •	The smart irrigation system is feasible and cost effective for optiming water resoures for agriculture prodution.
 
@@ -89,7 +92,8 @@ USERS: Farmers
 
 •	Smart irrigation control technology is easily deployable and can be controlled manually or automatically without physical presence at the system or field.¬
 
-                                                                         FUTURE SCOPE:
+
+**FUTURE SCOPE:**
 
 
 •	Freedom box usage instead of GSM module
