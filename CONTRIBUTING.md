@@ -1,4 +1,4 @@
-                                  **SMART IRRIGATION**
+ **SMART IRRIGATION**
 
 **COMPONENTS DESCRIPTION**
 
