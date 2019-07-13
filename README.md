@@ -15,6 +15,10 @@ In rainy reason,one of the major problem faced by the farmers is that over flow 
 
 It is hard for the farmer to water the fields by reaching that area so, we are doing it by detecting the moisture content and sending this information to the water by which will be able to know whether the water is suplied to the fields or not.
 
+**EXPLANATION:**
+
+
+This block diagram consists of ultrasonic sensor which collects the data of extra level of water,after collectiong the data,if there is any extra level of water in the fields the motor gets ON automatically which can be done even by using the relay as switch.Soil moisture sensor which collects the data of moisture content in soil,after collecting that data,if there is low level of moisture content then the motor gets ON and the water is pumped to the fields.DHT11 sensor collects the data of  temperature and humidity ,this information is collected sent to the farmer as the message with the help of GSM module.Solar panels are used to convert sunlight into electricity and stored in batteries,which can be used for the agriculture or some other purpose.Water pumped out after the data collected from ultrasonic sensor is purified using the activated carbon filter and stored in storage tanks.
 
 **WORKING MODEL:**
 
@@ -80,6 +84,11 @@ Farmers
 
 0.9 :   Testing the project
 
+**INSTALLATION REQUIREMENTS:**
+
+
+1.ARDUINO IDE INSTALLATION- coding
+2.DHT STABLE LIBRARIES    - ROB HILLART ARDUINO LIBRARIE
 
 **CONCLUSION:**
 
