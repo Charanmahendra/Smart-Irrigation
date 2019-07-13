@@ -7,7 +7,13 @@ As we all know that many farmers are taking their lifes by their own due to thei
   
 Smart irrigation controllers moniter the weather, soil conditions, evaporation and plant water use to automatiocally adjust the weather schedule to actual conditions of the site .Smart irriagtion is the technique of providing favourable environmental conditions for well growth of crops.
  
-This is a technology by which we can over come the major problem of the farmer in the fields in rainy season which is nothing but the over flow of water in the fields and we even control major system in the fields automatically .The use of smart irrigation is mainly to reduce the work of farmer and to get to know  the information of his field status
+This is a technology by which we can over come the major problem of the farmer in the fields in rainy season which is nothing but the over flow of water in the fields and we even control major system in the fields automatically .The use of smart irrigation is mainly to reduce the work of farmer and to get to know  the information of his field status.
+
+**PURPOSE OF PROJECT:**
+
+In rainy reason,one of the major problem faced by the farmers is that over flow of water in the faced which leads to the crop diseases and heavy loss to the farmer.So, there should be some alternative or some process to save the crops for the farmer by which he can overcome this major problem.
+
+It is hard for the farmer to water the fields 
 
 **EXPLANATION:**
  
