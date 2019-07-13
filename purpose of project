@@ -1,0 +1,12 @@
+ 
+USING SOIL MOISURE SENSOR
+If the sensed signal is greater than the threshold voltage 
+for every particular soil, it means it 
+executes the true condition and thus the soil is dry.
+
+The above statement is based on the property of the moisture sensor, i.e., if the sensed value is 
+greater than or equal to the threshold voltage, then the soil 
+is dry and also if there is no rain.
+Because
+the condition is true, the Boolean MOTOR will glow ON and the water pump should turn 
+ON in order to irrigate the plant.
