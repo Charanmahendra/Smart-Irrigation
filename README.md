@@ -92,6 +92,6 @@ Farmers
 
 Eclipse Public License -  1.0
 
-[(https://code.swecha.org/agriculture/smart-irrigation/blob/master/LICENSE)]
+[https://code.swecha.org/agriculture/smart-irrigation/blob/master/LICENSE]
 
 
