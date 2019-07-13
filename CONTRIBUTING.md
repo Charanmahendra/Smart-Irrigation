@@ -7,13 +7,13 @@ Ultrasonic Sensor Pin Configuration
 
 Pin Number     Pin Name         Description
  
-1              Vcc:              The Vcc pin powers the sensor, typically with +5V
+1.              Vcc:              The Vcc pin powers the sensor, typically with +5V
  
-2              Trigger:          Trigger pin is an Input pin. This pin has to be kept high for  10us to initialize measurement by sending US wave.
+2.              Trigger:          Trigger pin is an Input pin. This pin has to be kept high for  10us to initialize measurement by sending US wave.
  
-3              Echo:             Echo pin is an Output pin. This pin goes high for a period of time which will be equal to the time taken for the US wave to return back to the sensor.
+3.              Echo:             Echo pin is an Output pin. This pin goes high for a period of time which will be equal to the time taken for the US wave to return back to the sensor.
  
-4              Ground:           This pin is connected to the Ground of the system. 
+4.              Ground:           This pin is connected to the Ground of the system. 
  
 
 HC-SR04 Sensor Features
@@ -81,3 +81,10 @@ Note 2： When setting as analog output, output range is 0-3.3V or 0-5V accordin
 Humidity sensors detect the relative humidity of the immediate environments in which they are placed. They measure both the moisture and temperature in the air and express relative humidity as a percentage of the ratio of moisture in the air to the maximum amount that can be held in the air at the current temperature. As air becomes hotter, it holds more moisture, so the relative humidity changes with the temperature. 
 
 Most humidity sensors use capacitive measurement to determine the amount of moisture in the air. This type of measurement relies on two electrical conductors with a non-conductive polymer film laying between them to create an electrical field between them. Moisture from the air collects on the film and causes changes in the voltage levels between the two plates. This change is then converted into a digital measurement of the air’s relative humidity after taking the air temperature into account
+
+
+**Overview of project:**
+
+In this project,our main ideal is to remove the extra of water from the fields which is the major issue that farmers are facing due to heavy rains,so we are using the ultrasonic sensor and detecting the extra level of water and pumping it out with the help of submersible motor.This water pumped out can be useful other purposes,but as that water flown in the fields which consists of pesticides that water is purified using the activated carbon water filter.Our next step is,to pump the water automatically to the fields by detecting moisture in the soil with the help of soil moisture sensor.We even detect the temperature and humidity with the help of DHT1 sensor.
+
+Our futurescope is,to send the information about the motor ON/OFF to the farmer with the help to the GSM module or create the web page and send that information to the farmer with the help of mobile phone.We want to connect a solar panel and utilize that solar energy for the field activities.
