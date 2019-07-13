@@ -13,7 +13,7 @@ This is a technology by which we can over come the major problem of the farmer i
 
 In rainy reason,one of the major problem faced by the farmers is that over flow of water in the faced which leads to the crop diseases and heavy loss to the farmer.So, there should be some alternative or some process to save the crops for the farmer by which he can overcome this major problem.
 
-It is hard for the farmer to water the fields 
+It is hard for the farmer to water the fields by reaching that area so, we are doing it by detecting the moisture content and sending this information to the water by which will be able to know whether the water is suplied to the fields or not.
 
 **EXPLANATION:**
  
