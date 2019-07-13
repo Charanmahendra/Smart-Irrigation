@@ -84,8 +84,36 @@ Humidity sensors detect the relative humidity of the immediate environments in w
 Most humidity sensors use capacitive measurement to determine the amount of moisture in the air. This type of measurement relies on two electrical conductors with a non-conductive polymer film laying between them to create an electrical field between them. Moisture from the air collects on the film and causes changes in the voltage levels between the two plates. This change is then converted into a digital measurement of the air’s relative humidity after taking the air temperature into account
 
 
+**EXPLANATION:**
+ 
+This block diagram consists of ultrasonic sensor which collects the data of extra level of water,after collectiong the data,if there is any extra level of water in the fields the motor gets ON automatically which can be done even by using the relay as switch.Soil moisture sensor which collects the data of moisture content in soil,after collecting that data,if there is low level of moisture content then the motor gets ON and the water is pumped to the fields.DHT11 sensor collects the data of  temperature and humidity ,this information is collected sent to the farmer as the message with the help of GSM module.Solar panels are used to convert sunlight into electricity and stored in batteries,which can be used for the agriculture or some other purpose.Water pumped out after the data collected from ultrasonic sensor is purified using the activated carbon filter and stored in storage tanks.
+
+
 **Overview of project:**
 
 In this project,our main ideal is to remove the extra of water from the fields which is the major issue that farmers are facing due to heavy rains,so we are using the ultrasonic sensor and detecting the extra level of water and pumping it out with the help of submersible motor.This water pumped out can be useful other purposes,but as that water flown in the fields which consists of pesticides that water is purified using the activated carbon water filter.Our next step is,to pump the water automatically to the fields by detecting moisture in the soil with the help of soil moisture sensor.We even detect the temperature and humidity with the help of DHT1 sensor.
 
 Our futurescope is,to send the information about the motor ON/OFF to the farmer with the help to the GSM module or create the web page and send that information to the farmer with the help of mobile phone.We want to connect a solar panel and utilize that solar energy for the field activities.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
