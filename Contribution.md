@@ -31,7 +31,7 @@ Our project includes the following versions:
 
 **BLOCK DIAGRAM:**
 
-![](images/one.png)
+![]
 
 
 **USERS:**
