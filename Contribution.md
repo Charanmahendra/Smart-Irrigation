@@ -90,7 +90,25 @@ GSM module
 
 > Shirisha : Sridevi
 
-> Nagadivya : MLRIT
+> Nagadivya : MRec
+
+> Sowmya : MRECW 
+
+**TEAM CONTRIBUTION:**
+
+>About sensors specifications and functionalities : Sowmya
+
+>DHT11 sensor coding, connection : Nagadivya
+
+>Soil moisture sensor coding, connection : Himaja
+
+>Ultrasonic sensor coding, connection : Shirisha
+
+>Relay connections : Nithin 
+
+>About GSM module : Sai charan
+
+>Integrating all together : Sai charan, Nithin
 
 
 
