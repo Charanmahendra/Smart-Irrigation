@@ -29,6 +29,10 @@ Our project includes the following versions:
 
 |Stable| Making the implementation of project in the field | July 28
 
+**BLOCK DIAGRAM:**
+
+![](images/one.png)
+
 
 **USERS:**
 
