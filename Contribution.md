@@ -87,6 +87,10 @@ GSM module
 
 ![](images/workflow.JPG)
 
+**PROJECT DEVELOPMENT LIFE CYCLE:**
+
+![](images/lifecycle.JPG)
+
 **TEAM INTRODUCTION:**
 
 > Sai charan : VNRVJIET
