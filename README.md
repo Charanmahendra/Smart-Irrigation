@@ -1,4 +1,4 @@
-[**INTRODUCTION TO PROJECT:**
+**INTRODUCTION TO PROJECT:**
 
  The continuous increasing demand of food requires the rapid improvement in food  production and technology .In country like India , where the economy is mainly based on agriculture and the climatic conditions are isotropic, still we are not able to make full use of agriculture resources.
 
