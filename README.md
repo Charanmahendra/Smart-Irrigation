@@ -24,18 +24,18 @@ This block diagram consists of ultrasonic sensor which collects the data of extr
 
 STEP1: Collecting the data from sensors
 
-ULTRASONIC SENSOR(HC-SR04):
+    **ULTRASONIC SENSOR(HC-SR04):**
 
 Firstly,the ultrasonic sensor is connected in a way that it detects the level of extra water
 in the fields when there are heavy rains.It has 4 pins they are Vcc,echo, GND and trigger.
 The Vcc pin is connected to the 5V of arduino,echo pin is taken as output,triggering pin is taken as input,and the level is detected by calculating the distance.
 
-DHT11 SENSOR:
+    **DHT11 SENSOR:**
 
 It detects the temperature and humidity.It has 3 pins they are DATA,GND,Vcc.
 The Vcc pin is connected to the 3.3V ,GND is connected to ground of the arduino and the information is collected in the form of temperature and humidity . It is sent through DATA pin in the sensor to the output pin .
 
-SOIL MOISTURE SENSOR (YL-69) :
+    **SOIL MOISTURE SENSOR (YL-69) :**
 
 It detects the volumetric content of water.It has 4 pins they are analog pin, digital pin, GND and Vcc. The Vcc pin is connected to the 5V of arduino, the GND is connected to ground of the arduino,here we read the data regarding the moisture content from the analog pin .
 It has a potentiometer which sets the moisture value to the threshold value and the comparator checks the moisture level and that data is displayed at the output pin of the arduino.
