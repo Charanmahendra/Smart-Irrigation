@@ -83,6 +83,10 @@ GSM module
 
 > Testing  the prototype in the field
 
+**FLOW CHART:**
+
+![](images/wokflow.png)
+
 **TEAM INTRODUCTION:**
 
 > Sai charan : VNRVJIET
