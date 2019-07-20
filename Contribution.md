@@ -85,7 +85,7 @@ GSM module
 
 **FLOW CHART:**
 
-![](images/wokflow.png)
+![](images/workflow.JPG)
 
 **TEAM INTRODUCTION:**
 
